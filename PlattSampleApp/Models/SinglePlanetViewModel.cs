@@ -32,7 +32,7 @@ namespace PlattSampleApp.Models
         /// <summary>
         /// Diameter of the planet
         /// </summary>
-        [JsonProperty("rotation_period")]
+        [JsonProperty("diameter")]
         public string Diameter { get; set; }
 
         /// <summary>
